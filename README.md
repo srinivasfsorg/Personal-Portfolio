@@ -3,7 +3,7 @@
   <a href="https://it.1war.company/srinivsareddy-portfolio/" target="_blank">Srinivasa Reddy Maram</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="Screenshot (4).png" />
 </div>
 
 <br/>
