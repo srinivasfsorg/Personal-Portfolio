@@ -8,12 +8,7 @@
 
 <br/>
 
-<h3 align="center">
-    🔹
-    <a href="">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="">Request Feature</a>
-</h3>
+
 
 
 ## Built With
